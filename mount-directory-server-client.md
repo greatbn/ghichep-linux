@@ -27,3 +27,9 @@
 - Ta có thể dùng lệnh `df -h` để kiểm tra
 
 <img src="image/sshfs2.png">
+
+- Để bỏ mount thư mục đã mount ta dùng lệnh
+
+`fusermount -u path`
+
+<img src="image/sshfs3.png">
